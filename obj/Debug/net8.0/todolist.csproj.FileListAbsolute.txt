@@ -1,0 +1,14 @@
+c:\Users\defeatedbynone\Desktop\cs#\todolist\bin\Debug\net8.0\todolist.exe
+c:\Users\defeatedbynone\Desktop\cs#\todolist\bin\Debug\net8.0\todolist.deps.json
+c:\Users\defeatedbynone\Desktop\cs#\todolist\bin\Debug\net8.0\todolist.runtimeconfig.json
+c:\Users\defeatedbynone\Desktop\cs#\todolist\bin\Debug\net8.0\todolist.dll
+c:\Users\defeatedbynone\Desktop\cs#\todolist\bin\Debug\net8.0\todolist.pdb
+c:\Users\defeatedbynone\Desktop\cs#\todolist\obj\Debug\net8.0\todolist.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\defeatedbynone\Desktop\cs#\todolist\obj\Debug\net8.0\todolist.AssemblyInfoInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\todolist\obj\Debug\net8.0\todolist.AssemblyInfo.cs
+c:\Users\defeatedbynone\Desktop\cs#\todolist\obj\Debug\net8.0\todolist.csproj.CoreCompileInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\todolist\obj\Debug\net8.0\todolist.dll
+c:\Users\defeatedbynone\Desktop\cs#\todolist\obj\Debug\net8.0\refint\todolist.dll
+c:\Users\defeatedbynone\Desktop\cs#\todolist\obj\Debug\net8.0\todolist.pdb
+c:\Users\defeatedbynone\Desktop\cs#\todolist\obj\Debug\net8.0\todolist.genruntimeconfig.cache
+c:\Users\defeatedbynone\Desktop\cs#\todolist\obj\Debug\net8.0\ref\todolist.dll
